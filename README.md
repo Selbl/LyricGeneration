@@ -6,6 +6,10 @@ This repository contains the steps necessary to generate lyrics using a finetune
 - Training the model
 - Lyric generation
 
+## Disclaimers
+
+The code generates lyrics based on the lyrics from over 7,000 songs (mostly from the rock genre). I am not responsible for any offensive phrases or words that the model can output.
+
 ## Links
 
 Because I can't upload files of over 25MB to my repository, I have made the model weights and the csv with the song lyrics available from my Google Drive at the following links:
